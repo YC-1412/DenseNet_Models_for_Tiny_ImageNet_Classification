@@ -20,6 +20,7 @@ To be populated by students, as shown in previous assignments
 
 **Models are uploaded to Google Drive: https://drive.google.com/drive/folders/1oVAgrx2Ast4yQ_blt_eJqqsfzCGn99SA?usp=sharing**
 
+```
 .
 ├── README.md
 ├── figs
@@ -50,3 +51,5 @@ To be populated by students, as shown in previous assignments
 └── visualization.py
 
 2 directories, 25 files
+
+```
