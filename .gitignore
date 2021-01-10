@@ -1,0 +1,28 @@
+#################
+#Temporary files#
+#################
+*.swp
+*.pyc
+.env/*
+
+###############
+# Model  files #
+###############
+model/*
+
+###############
+# Data  files #
+###############
+data/*
+
+###############
+# Other files #
+###############
+.ipynb_checkpoints/*
+*.ipynb_checkpoints
+ref/*
+*__pycache__
+.idea/*
+E4040.2019Fall.SSSS.report.hw2761.mc4795.yc3713.pdf
+notes.md
+requirements.md

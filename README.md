@@ -1,5 +1,10 @@
 # DenseNet Models for Tiny ImageNet Classification
+## Data
+
+Tiny ImageNet dataset: http://cs231n.stanford.edu/tiny-imagenet-200.zip
+
 ## Organization of this directory
+
 ** Trained models are uploaded to Google Drive: https://drive.google.com/drive/folders/1oVAgrx2Ast4yQ_blt_eJqqsfzCGn99SA?usp=sharing**
 
 ```
